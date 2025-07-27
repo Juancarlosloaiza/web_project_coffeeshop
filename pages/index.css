@@ -72,13 +72,14 @@ body {
 .header__content {
   max-width: 1280px;
   display: flex;
-  flex: 1;
-  align-items: center;
-  justify-content: space-between;
+  flex-direction: column;
+  text-align: center left;
+  align-items: center left;
   font-size: 62px;
   line-height: 76px;
   font-weight: 500;
   padding-bottom: 140px;
+  gap: 24px;
 }
 
 .header__title {
