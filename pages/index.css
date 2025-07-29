@@ -239,12 +239,13 @@ body {
   min-height: 720px;
   max-height: 800px;
   height: 100vh;
+  padding-top: 100px;
   background-color: #d9e7ff;
 }
 
 .reservation__title {
   font-family: "Inter", sans-serif;
-  margin-top: 100px;
+  margin-top: 0;
   margin-right: auto;
   margin-bottom: 80px;
   margin-left: auto;
