@@ -6,24 +6,3 @@
 @import url(../blocks/reservation.css);
 @import url(../blocks/form.css);
 @import url(../blocks/footer.css);
-h1,
-h2,
-h3,
-.noto-serif p {
-  font-family: "Noto Serif", "Times New Roman", serif;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-  min-height: 100vh;
-  background-color: #ffffff;
-}
-
-.span-accent {
-  font-family: "Noto Serif";
-  font-size: 58px;
-  line-height: 72px;
-  color: #2f80ed;
-  font-style: italic;
-}
