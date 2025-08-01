@@ -19,11 +19,3 @@ body {
   min-height: 100vh;
   background-color: #ffffff;
 }
-
-.span-accent {
-  font-family: "Noto Serif";
-  font-size: 58px;
-  line-height: 72px;
-  color: #2f80ed;
-  font-style: italic;
-}
